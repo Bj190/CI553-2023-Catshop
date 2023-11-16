@@ -37,8 +37,8 @@ public class BetterBasket extends Basket implements Serializable
   public boolean add ( Product pr)
   {       
 	super.add(pr); 
-	productList(pr);   
-	  
+	productList(pr);
+	
   }
  
 
